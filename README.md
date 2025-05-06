@@ -1,21 +1,4 @@
-## 🚀 About Me
-Hi there I'm ANKIT YADAV a full stack developer with Reactjs, TypeScript, Nodejs, MongoDB
 
-# Travel Nest - Hotel Booking MERN Website
-
-"Travel Nest " is a MERN stack hotel booking website where React with TypeScript is used for the frontend, Node.js for the backend, and MongoDB for the database.
-
-- Website Link :- https://travel-nest-webdevankit.vercel.app/
-
-- Admin Account :- [Email : - admin@gmail.com, Password:- admin@xyz] 
-
-## Tech Stack
-**Client:** React, TypeScript,  TailwindCSS
-
-**Server:** Node, Express
-
-**Database:** MongoDB, Mongoose
-## Optimizations
 
 
 - In this project i am using React with TypeScript, React Form Hook and React Query(TanStack Query). 
